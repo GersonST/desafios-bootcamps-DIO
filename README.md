@@ -34,5 +34,14 @@ Todos os desafios realizados nos bootcamps que realizei da [Digital Innovation O
     <a href="https://github.com/GersonST/desafios-bootcamps-DIO/tree/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
   </div>
   
+  <div>
+    <h4>Fundamentos Aritméticos em JavaScript</h4>
+    <a href="https://github.com/GersonST/desafios-bootcamps-DIO/blob/main/JavaScript/Fundamentos%20Aritméticos%20em%20JavaScript/quantidade-de-numeros-positivos.js">Quantidade de números positivos</a><br/>
+    <a href="https://github.com/GersonST/desafios-bootcamps-DIO/blob/main/JavaScript/Fundamentos%20Aritméticos%20em%20JavaScript/exibindo-numeros-pares.js">Exibindo números pares</a><br/>
+    <a href="https://github.com/GersonST/desafios-bootcamps-DIO/blob/main/JavaScript/Fundamentos%20Aritméticos%20em%20JavaScript/analise-de-numeros.js">Análise de números</a><br/>
+   <a href="https://github.com/GersonST/desafios-bootcamps-DIO/blob/main/JavaScript/Fundamentos%20Aritméticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de cédulas</a><br/>
+  <a href="https://github.com/GersonST/desafios-bootcamps-DIO/blob/main/JavaScript/Fundamentos%20Aritméticos%20em%20JavaScript/consumo-medio-automovel.js">Consumo médio automóvel</a><br/>
+  </div>
+  
 </details>
 
